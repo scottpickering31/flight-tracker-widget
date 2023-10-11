@@ -1,7 +1,7 @@
 const tableBody = document.getElementById("table-body");
 
 const getFlight = () => {
-  fetch("http://localhost:8000/flights")
+  fetch("/flights")
     .then((response) => response.json())
     .then((flights) => {
       populateTable(flights);
