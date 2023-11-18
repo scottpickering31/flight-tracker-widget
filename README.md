@@ -16,7 +16,7 @@ Acquire a Rapid API key and access to the specific Toronto Pearson Airport endpo
 Implement the widget using the provided code snippet or widget package in your HTML, JavaScript, or preferred development environment.
 Customize the widget's appearance and behavior as needed for seamless integration.
 
-#Installation
+# Installation
 **To set up the Flight Tracker widget:**
 Obtain necessary permissions and credentials from Rapid API for accessing Toronto Pearson Airport data.
 Follow the integration instructions provided by Rapid API to connect to the endpoint and receive live flight information.
